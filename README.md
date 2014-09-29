@@ -28,3 +28,5 @@ Here is an example of configuration :
  "tooltip":   "tip"
 }
 ```
+
+You can see a full example running [here](http://FredericBranca.github.io/zoomable-treemap-csv/treemap.html) with its [configuration file](http://FredericBranca.github.io/zoomable-treemap-csv/config.json) and the [csv file](http://FredericBranca.github.io/zoomable-treemap-csv/sampledata/baseball.csv).
