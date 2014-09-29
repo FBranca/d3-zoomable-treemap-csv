@@ -18,6 +18,7 @@ In practice the configuration is done by a simple JSON document "config.json". T
 - tooltip (optional) : name of the colum that contain a tooltip that is showed when you hoover a cell.
 
 Here is an example of configuration :
+```
 {
  "document" : "example.csv",
  "separator": ";",
@@ -26,3 +27,4 @@ Here is an example of configuration :
  "label":     "title",
  "tooltip":   "tip"
 }
+```
