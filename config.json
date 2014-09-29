@@ -1,0 +1,8 @@
+{
+ "document" : "sampledata/baseball.csv",
+ "separator": ";",
+ "hierarchy": [ "league87", "team87"],
+ "values":    [ "hits86", "runs86", "walks86"],
+ "label":     "full name",
+ "tooltip":   "titre"
+}
