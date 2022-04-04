@@ -28,5 +28,5 @@ Here is an example of configuration :
  "tooltip":   "tip"
 }
 ```
-
-You can see a full example running [here](http://FBranca.github.io/zoomable-treemap-csv/treemap.html) with its [configuration file](http://FBranca.github.io/zoomable-treemap-csv/config.json) and the [csv file](http://FBranca.github.io/zoomable-treemap-csv/sampledata/baseball.csv).
+FBranca/d3-zoomable-treemap-csv/blob/master/sampledata/baseball.csv
+You can see a full example running [here](treemap.html) with its [configuration file](config.json) and the [csv file](sampledata/baseball.csv).
